@@ -1,6 +1,8 @@
-import RPA as RPA
+import rpa as rpa
 import pandas as pd
-import  numpy as np
+import numpy as np
+
+rpa.init()
 
 def main():
     pass
